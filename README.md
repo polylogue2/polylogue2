@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome!
+**Hello!** I'm Swift, a developer & hobbyist producer. I'm fluent in Python & C#, and make Scratch cloud based projects from time to time.
 
-<!--
-**freshfroiz/freshfroiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	• 🐍Develops in Python, C# and Scratch
+ 
+	• 🎹Musician/Producer in Ableton
+ 
+	• 🎨Designs in Figma & (sometimes) paint.NET
+ 
+	• 📹Edits with DaVinci Resolve 18
+ 
+	• 🖥 Windows & Linux User
 
-Here are some ideas to get you started:
+# My Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [YouTube (@swiftpixel-dev)](https://www.youtube.com/@swiftpixel-dev)
+- [Scratch (@Swiftpixel)[(https://scratch.mit.edu/users/Swiftpixel)
+- **More to come...**
