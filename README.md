@@ -14,5 +14,5 @@
 # My Links
 
 - [YouTube (@swiftpixel-dev)](https://www.youtube.com/@swiftpixel-dev)
-- [Scratch (@Swiftpixel)][(https://scratch.mit.edu/users/Swiftpixel)
+- [Scratch (@Swiftpixel)](https://scratch.mit.edu/users/Swiftpixel)
 - **More to come...**
