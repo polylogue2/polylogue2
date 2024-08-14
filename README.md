@@ -1,18 +1,15 @@
 # Welcome!
-**Hello!** I'm Swift, a developer & hobbyist producer. I'm fluent in Python & C#, and make Scratch cloud based projects from time to time.
+**Hello!** I'm polylogue, a developer & hobbyist music producer.
 
-	• 🐍Develops in Python, C# and Scratch
+	• 🐍Develops in Python & C#
  
-	• 🎹Musician/Producer in Ableton
+	• 🎹Musician/Producer
  
-	• 🎨Designs in Figma & (sometimes) paint.NET
- 
-	• 📹Edits with DaVinci Resolve 18
+	• 🎨Designs in Figma
  
 	• 🖥 Windows & Linux User
 
 # My Links
 
-- [YouTube (@swiftpixel-dev)](https://www.youtube.com/@swiftpixel-dev)
+- [YouTube (@polylogue2)](https://www.youtube.com/@polylogue2)
 - [Scratch (@Swiftpixel)](https://scratch.mit.edu/users/Swiftpixel)
-- **More to come...**
