@@ -1,14 +1,18 @@
-# Welcome!
-**Hello!** I'm polylogue, a software developer & tech enthusiast. I mostly code in **C#**, but play around with **Python** for web-based projects.
-I have a [YouTube](https://www.youtube.com/@polylogue2) channel that I mess around with from time to time, check it out!
+# Welcome to My World!
 
-	• 💻 C#, Python and HTML dev
- 	• 💿 Windows/Linux user
-  	• 🎹 Hobbyist producer
+**Hello!** I'm **polylogue**, a (primarili) Windows software developer and tech enthusiast. I primarily code in **C#**, but also use **Python** & **HTML** for cross-platform & web-based projects. 
 
-# Stats
+🎥 **Check out my YouTube Channel!**  
+Here I livestream code, as well as make tutorials on a variety of tech stuff. [Subscribe here!](https://www.youtube.com/@polylogue2)
+
+### 💻 Tech Stack:
+- **Languages**: C#, Python, HTML (CSS)
+- **Platforms**: Windows (Universal, ), Linux, Web
+- **Design**: Figma
+
+### 📊 GitHub Stats:
 ![polylogue's GitHub stats](https://github-readme-stats.vercel.app/api?username=polylogue2)
-# My Links
 
-• [YouTube (@polylogue2)](https://www.youtube.com/@polylogue2)
-• [Portfolio Website](https://alwaysdns.net)
+### 🌐 Explore More:
+- [YouTube Channel](https://www.youtube.com/@polylogue2)
+- [Portfolio Website](https://alwaysdns.net)
