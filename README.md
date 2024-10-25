@@ -1,6 +1,6 @@
 # Welcome to My World!
 
-**Hello!** I'm **polylogue**, a (primarili) Windows software developer and tech enthusiast. I primarily code in **C#**, but also use **Python** & **HTML** for cross-platform & web-based projects. 
+**Hello!** I'm **polylogue**, a (primarily) Windows software developer and tech enthusiast. I primarily code in **C#**, but also use **Python** & **HTML** for cross-platform & web-based projects. 
 
 🎥 **Check out my YouTube Channel!**  
 Here I livestream code, as well as make tutorials on a variety of tech stuff. [Subscribe here!](https://www.youtube.com/@polylogue2)
