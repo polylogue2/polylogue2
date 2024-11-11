@@ -1,4 +1,5 @@
 # Welcome
+![hi](https://static.alwaysdns.net/media/polylogue-logo-github.png)
 
 **Hello!** I'm **polylogue**, a (primarily) Windows software developer and tech enthusiast. I primarily code in **C#**, but also use **Python** & **HTML** for cross-platform & web-based projects. 
 
@@ -12,8 +13,8 @@ Here I livestream code, as well as make tutorials on a variety of tech stuff. [C
 - **Design**: UX/UI design in Figma and Blend for my projects
 
 ### ⌨️ My Projects:
-- `Contributor` **[Project Ninjago](https://projectninjago.net)**: A community-maintained Lego Ninjago wiki page by Hengill.```Web```
-- **[AlwaysDNS](https://alwaysdns.net)**: My blog and project repository built in HTML. ```Web```
+- `Contributor` **[Project Ninjago](https://projectninjago.net)**: A community-maintained Lego Ninjago wiki page by Hengill. 
+- **[AlwaysDNS](https://alwaysdns.net)**: My blog and project repository built in HTML & CSS.
 
 ### 📊 GitHub Stats:
 ![polylogue's GitHub stats](https://github-readme-stats.vercel.app/api?username=polylogue2)
