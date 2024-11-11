@@ -12,8 +12,8 @@ Here I livestream code, as well as make tutorials on a variety of tech stuff. [C
 - **Design**: UX/UI design in Figma and Blend for my projects
 
 ### ⌨️ My Projects:
-- **WinVSL**: A program that helps manage multiple Visual Studio versions, and lets you choose what version to open a solution in. ```Windows Desktop```
-- **AlwaysDNS**: My blog and project repository built in HTML. ```Web```
+- `Contributor` **[Project Ninjago](https://projectninjago.net)**: A community-maintained Lego Ninjago wiki page by Hengill.```Web```
+- **[AlwaysDNS](https://alwaysdns.net)**: My blog and project repository built in HTML. ```Web```
 
 ### 📊 GitHub Stats:
 ![polylogue's GitHub stats](https://github-readme-stats.vercel.app/api?username=polylogue2)
