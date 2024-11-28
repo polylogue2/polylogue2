@@ -6,11 +6,27 @@
 🎥 **Check out my YouTube Channel!**  
 Here I livestream code, as well as make tutorials on a variety of tech stuff. [Check it out](https://www.youtube.com/@polylogue2)
 
-### 💻 What I do:
-- **Frontend Web Development**: HTML, CSS, and poor JS
-- **Windows Apps**: UWP, Windows Presentation Format (WPF), and Windows Forms
-- **Cross Platform**: Mostly Python3 for CLI programs for Linux
-- **Design**: UX/UI design in Figma and Blend for my projects
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
+</div>
 
 ### ⌨️ My Projects:
 - `Contributor` **[Project Ninjago](https://projectninjago.net)**: A community-maintained Lego Ninjago wiki page by Hengill. 
