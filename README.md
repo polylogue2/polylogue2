@@ -6,7 +6,7 @@
 🎥 **Check out my YouTube Channel!**  
 Here I livestream code, as well as make tutorials on a variety of tech stuff. [Check it out](https://www.youtube.com/@polylogue2)
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
