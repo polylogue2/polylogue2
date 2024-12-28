@@ -1,5 +1,4 @@
 # Welcome
-![hi](https://static.alwaysdns.net/media/polylogue-logo-github.png)
 
 **Hello!** I'm **polylogue**, a (primarily) Windows software developer and tech enthusiast. I primarily code in **C#**, but also use **Python** & **HTML** for cross-platform & web-based projects. 
 
