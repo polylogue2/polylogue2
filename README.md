@@ -21,9 +21,18 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
 </td>
     </tr>
+      <tr>
+      <td><a href="https://whiskerproject.com/?utm_source=github"><strong>Whisker Project</strong></a></td>
+      <td>A social-media platform inspired by Scratch</td>
+        <td>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge">
+</td>
+    </tr>
   </tbody>
 </table>
 
-
+<hr>
 
 ![polylogue's GitHub stats](https://github-readme-stats.vercel.app/api?username=polylogue2)
