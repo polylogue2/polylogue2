@@ -35,4 +35,5 @@
 
 <hr>
 
-![polylogue's GitHub stats](https://github-readme-stats.vercel.app/api?username=polylogue2)
+![polylogue2's Stats](https://github-readme-stats.vercel.app/api?username=polylogue2&theme=onedark&show_icons=true&hide_border=true&count_private=true) <br>
+![polylogue2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polylogue2&theme=onedark&show_icons=true&hide_border=true&layout=compact)
