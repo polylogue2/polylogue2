@@ -22,11 +22,10 @@
 </td>
     </tr>
           <tr>
-      <td><a href=""><strong>Waveform</strong></a></td>
-      <td>A self-hosted music streaming platform.</td>
+      <td><a href=""><strong>polyterminal</strong></a></td>
+      <td>A custom console portfolio, providing a unique way to interact with my website.</td>
         <td>
-  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge">
-          <img src="https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logoColor=61DBFB">
+  <img src="https://img.shields.io/badge/c%23-0078D7.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Node.js badge">
 </td>
     </tr>
   </tbody>
