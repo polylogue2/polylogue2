@@ -16,24 +16,14 @@
     <tr>
       <td><a href="https://alwaysdns.net/?utm_source=github"><strong>alwaysdns.net</strong></a></td>
       <td>Personal portfolio site with a blog and projects directory</td>
-      <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
-</td>
     </tr>
-              <tr>
       <td><a href="https://github.com/polylogue2/pilot"><strong>Pilot</strong></a></td>
       <td>A fully customisable dashboard for your self-hosted services</td>
-        <td>
-  <img src="https://img.shields.io/badge/c%23-0078D7.svg?style=for-the-badge&logo=csharp&logoColor=white&q=1" alt="Node.js badge">
-</td>
     </tr>
           <tr>
       <td><a href="https://github.com/polylogue2/polyterminal"><strong>polyterminal</strong></a></td>
       <td>A custom console portfolio, providing a unique way to interact with my website</td>
-        <td>
-  <img src="https://img.shields.io/badge/c%23-0078D7.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Node.js badge">
-</td>
+        
     </tr>
   </tbody>
 </table>
