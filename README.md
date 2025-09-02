@@ -25,7 +25,7 @@
       <td><a href="https://github.com/polylogue2/pilot"><strong>Pilot</strong></a></td>
       <td>A fully customisable dashboard for your self-hosted services</td>
         <td>
-  <img src="https://img.shields.io/badge/c%23-0078D7.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Node.js badge">
+  <img src="https://img.shields.io/badge/c%23-0078D7.svg?style=for-the-badge&logo=csharp&logoColor=white&q=1" alt="Node.js badge">
 </td>
     </tr>
           <tr>
