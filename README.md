@@ -20,10 +20,9 @@
       <td><a href="https://github.com/polylogue2/pilot"><strong>Pilot</strong></a></td>
       <td>A fully customisable dashboard for your self-hosted services</td>
     </tr>
-          <tr>
+    <tr>
       <td><a href="https://github.com/polylogue2/polyterminal"><strong>polyterminal</strong></a></td>
-      <td>A custom console portfolio, providing a unique way to interact with my website</td>
-        
+      <td>A custom console portfolio, providing a unique way to interact with my website</td>  
     </tr>
   </tbody>
 </table>
